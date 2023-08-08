@@ -1,0 +1,11 @@
+/* styles/styles.scss */
+
+$primary-color: #007bff;
+$font-size: 50px;
+
+.myHelloWorld {
+  font-size: $font-size;
+  color: $primary-color;
+  text-align: center;
+  margin-top: 50px;
+}
